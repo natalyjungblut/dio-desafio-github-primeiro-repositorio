@@ -1,0 +1,11 @@
+Link para Download do Git:https://git-scm.com/
+
+GIT usa um modelo de dados que ajuda a garantir a integridade criptográfica de um repositório. Cada vez que um arquivo é adicionado ou um commit é feito, suas somas de verificação são geradas. Da mesma forma, eles são recuperados através de suas somas de verificação também.
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+---------
+
+GitHub = Portifólio para programadores / Uma rede social para programadores
+
+Ele permite a publicação e compartilhamento de código-fonte e arquivos em nuvem. 
