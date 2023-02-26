@@ -1,4 +1,4 @@
-Link para Download do Git:https://git-scm.com/
+Link para Download do Git: https://git-scm.com/
 
 GIT usa um modelo de dados que ajuda a garantir a integridade criptográfica de um repositório. Cada vez que um arquivo é adicionado ou um commit é feito, suas somas de verificação são geradas. Da mesma forma, eles são recuperados através de suas somas de verificação também.
 
